@@ -1292,7 +1292,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get(https://github.com/Fx990/Chudi.txt').text
+    prox= requests.get('https://github.com/MR-ALONE786/File-Cloning/blob/main/Approved.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -1542,7 +1542,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://github.com/Fx990/Chudi.txt').text
+        a=requests.get('https://github.com/Pro-Max-420/ua/blob/main/bbnew.txt').text
         ua=open('bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
@@ -1647,7 +1647,7 @@ def animation(u):
 os.system('xdg-open https://facebook.com/groups/536478595262725/')
 logo ="""
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-║\033[1;91m\033[1;41m\033[1;97m              WELCOME TO F-X TOOLS                 \033[;0m\033[1;91m\033[1;92m║
+║\033[1;91m\033[1;41m\033[1;97m              WELCOME TO DRACO TOOLS                 \033[;0m\033[1;91m\033[1;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
      \x1b[38;5;50m ██████╗ ██████╗  █████╗  ██████╗ ██████╗    
      \x1b[38;5;50m ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗
@@ -1657,12 +1657,12 @@ logo ="""
       \x1b[38;5;50m╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝      
          \033[1;91m<═══\033[1;41m\033[1;97m THIS NAME IS DRACO BRAND\033[;0m\033[1;91m═══>\033[1;92m
 \033[1;31m==================================================
-[] AUTHOR       :      ARIYAN CHOWDHURY
+[] AUTHOR       :      𝐀𝐒𝐑𝐀𝐅 𝐀𝐇𝐌𝐄𝐃
 [] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
 [] TYPE         :       𝐅 𝐑 𝐄 𝐄
 [] FACEBOOK     :      𝐅𝐑𝐄𝐄 𝐓𝐄𝐑𝐌𝐔𝐗 𝐂𝐎𝐌𝐌𝐀𝐍𝐃
-[] VERSION      :      6.1
-[] TELEGRAM     :      𝐓𝐄𝐀𝐌 FX
+[] VERSION      :      1.0
+[] TELEGRAM     :      𝐓𝐄𝐀𝐌 𝐃𝐑𝐀𝐂𝐎
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -1692,7 +1692,7 @@ def meyexudi():
       print(' \x1b[38;5;208m╔══[𝟷]💥  FREE-FIRE-TIK-TOK- ID CLONING')      
       print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 80%')
       print(' \x1b[1;97m║══[3]💥  WI-FI  AND DATA BOTH WORKING 100%')
-      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   TEAM,   FX,    Please,   Send,   Your,   Key,"')
+      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   TEAM,   DRACO,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[4] YOUR KEY : "+id)
       input(' \033[1;30m╚══[5] IF U WANT TO BUY THEN PRESS ENTER ')
       tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801856670349?text='+tks),approval()      
@@ -1719,7 +1719,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'V' and password == '6':
+    if username == 'F' and password == 'X':
         print(' \033[0;95mYou Have Successfully Logged in.')
         os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
         break
@@ -2005,7 +2005,7 @@ def dump_massal():
 def crack_file():
     print('\033[0;93m==================')
     os.system('espeak -a 300 " your file name"')
-    print('\033[1;36m[ Put File Example:  /sdcard/fx.txt  Etc...]')
+    print('\033[1;36m[ Put File Example:  /sdcard/king.txt  Etc...]')
     o = input('\033[95;1m[\033[92;1m+\033[95;1m] INPut FILE NAME :\033[95;1m ')
     try:lin = open(o).read().splitlines()
     except:
