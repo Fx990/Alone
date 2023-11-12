@@ -1678,7 +1678,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/Fx990/Chudi.txt').text
+    httpCaht = requests.get('https://github.com/Fx990/Alon/tree/main.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
